@@ -52,26 +52,26 @@ The client can be installed and run locally in http://localhost:3000/
 
 ### Serveless deployment:
 
-![Alt text](screenshots/Deployment.png "sls deployed")
+![Alt text](screenshots/Deployment.PNG "sls deployed")
 
 ### CloudFormation:
 
-![Alt text](screenshots/Cloud_Formation_Stack "CloudFormation")
+![Alt text](screenshots/Cloud_Formation_Stack.PNG "CloudFormation")
 
 ### s3 buckets:
 
-![Alt text](screenshots/S3_bucket "s3buckets")
+![Alt text](screenshots/S3_bucket.PNG "s3buckets")
 
 
 
 ### AWS lambdas:
 
-![Alt text](screenshots/AWS_Lambda "aws-lamdas")
+![Alt text](screenshots/AWS_Lambda.PNG "aws-lamdas")
 
 
 
 # Successful upload message:
 
-![Alt text](screenshots/Successful_upload "upload-successful")
+![Alt text](screenshots/Successful_upload.PNG "upload-successful")
 
-![Alt text](screenshots/After_Upload "image-uploaded")
+![Alt text](screenshots/After_Upload.PNG "image-uploaded")
